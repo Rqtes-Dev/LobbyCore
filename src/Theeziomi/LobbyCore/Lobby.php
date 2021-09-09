@@ -41,7 +41,7 @@ class Lobby extends Pluginbase implements Listener{
             switch($result){
                 case 0:
                     //este es el boton 1
-                    $this->getInstance()->getServer()->broadcastMessage("§e§l".$sender->getName()."§r§8Is Looking For a Faction);
+                    $this->getInstance()->getServer()->broadcastMessage("§e§l".$sender->getName()."§r§8Is Looking For a Faction");
                 break;
 
                 case 1:
