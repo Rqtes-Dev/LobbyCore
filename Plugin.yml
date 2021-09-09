@@ -1,0 +1,12 @@
+name: Lobby
+author: Theeziomi
+version: 0.1.0
+api: 3.22.0
+main: Theeziomi\LobbyCore\Loader
+
+commands:
+   hub:
+    description: Go to Spawn
+   
+   fly:
+    description: You now can Fly
