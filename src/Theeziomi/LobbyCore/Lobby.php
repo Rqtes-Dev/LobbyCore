@@ -46,7 +46,7 @@ class Lobby extends Pluginbase implements Listener{
 
                 case 1:
                     //este es el boton 2
-                    $this->getInstance()->getServer()->broadcastMessage("§e§l".$sender->getName()."§r§8Is Looking For a Players);
+                    $this->getInstance()->getServer()->broadcastMessage("§e§l".$sender->getName()."§r§8Is Looking For a Players");
                 break;
                 
                 case 2:
